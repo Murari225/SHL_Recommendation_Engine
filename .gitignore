@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files
+data/*.csv
+data/*.npy
+data/*.joblib
+data/*.txt
+data/*.zip
+data/*.html
+
+# Model weights
+*.pt
+*.bin
+*.safetensors

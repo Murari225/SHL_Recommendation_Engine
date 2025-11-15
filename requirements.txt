@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas
+openpyxl
+sentence-transformers
+torch
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+tqdm
+requests
